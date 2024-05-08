@@ -27,13 +27,13 @@ transfer algorithm to their photos, turning them into artistic masterpieces.
 ## Photos
 
 ### Login Page
-<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/ec4ab4f5-8abc-4a7a-819e-3a12857db774" alt="drawing" width="400"/>
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/ec4ab4f5-8abc-4a7a-819e-3a12857db774" alt="drawing" width="250"/>
 
 ### Styles Menu
-<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/1a795416-195e-4296-8ffe-ac2790ea9d1f" alt="drawing" width="400"/>
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/1a795416-195e-4296-8ffe-ac2790ea9d1f" alt="drawing" width="250"/>
 
 ### Gallery
-<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/4824a204-f8d9-4ee7-a308-4a5a8e761f7c" alt="drawing" width="400"/>
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/4824a204-f8d9-4ee7-a308-4a5a8e761f7c" alt="drawing" width="250"/>
 
 ### Painting Details
-<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/28232975-d070-44f2-9999-9fbae770d125" alt="drawing" width="400"/>
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/28232975-d070-44f2-9999-9fbae770d125" alt="drawing" width="250"/>
