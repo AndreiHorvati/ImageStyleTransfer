@@ -27,13 +27,13 @@ transfer algorithm to their photos, turning them into artistic masterpieces.
 ## Photos
 
 ### Login Page
-<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/ec4ab4f5-8abc-4a7a-819e-3a12857db774" alt="drawing" width="200"/>
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/ec4ab4f5-8abc-4a7a-819e-3a12857db774" alt="drawing" width="400"/>
 
 ### Styles Menu
-![Simulator Screenshot - iPhone 14 Pro - 2024-05-09 at 00 33 21](https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/1a795416-195e-4296-8ffe-ac2790ea9d1f)
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/1a795416-195e-4296-8ffe-ac2790ea9d1f" alt="drawing" width="400"/>
 
 ### Gallery
-![Simulator Screenshot - iPhone 14 Pro - 2024-05-09 at 00 33 16](https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/4824a204-f8d9-4ee7-a308-4a5a8e761f7c)
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/4824a204-f8d9-4ee7-a308-4a5a8e761f7c" alt="drawing" width="400"/>
 
 ### Painting Details
-![Simulator Screenshot - iPhone 14 Pro - 2024-05-09 at 00 33 13](https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/28232975-d070-44f2-9999-9fbae770d125)
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/28232975-d070-44f2-9999-9fbae770d125" alt="drawing" width="400"/>
