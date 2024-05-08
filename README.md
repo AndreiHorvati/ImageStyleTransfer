@@ -19,7 +19,7 @@ transfer algorithm to their photos, turning them into artistic masterpieces.
 ## Technologies
 
 - **Swift** - used for developing the frontend of the application
-- **SwiftUI** - used for creating the User Interface
+- **SwiftUI** - used for creating the user interface
 - **Python and Django** - used for developing the backend and API of the application
 - **SQLite** - used for maintaing the database of the application
 - **Git** and **GitHub** - used as version control system
@@ -27,7 +27,7 @@ transfer algorithm to their photos, turning them into artistic masterpieces.
 ## Photos
 
 ### Login Page
-![Simulator Screenshot - iPhone 14 Pro - 2024-05-09 at 00 33 23](https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/ec4ab4f5-8abc-4a7a-819e-3a12857db774)
+<img src="https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/ec4ab4f5-8abc-4a7a-819e-3a12857db774" alt="drawing" width="200"/>
 
 ### Styles Menu
 ![Simulator Screenshot - iPhone 14 Pro - 2024-05-09 at 00 33 21](https://github.com/AndreiHorvati/ImageStyleTransfer/assets/34892529/1a795416-195e-4296-8ffe-ac2790ea9d1f)
