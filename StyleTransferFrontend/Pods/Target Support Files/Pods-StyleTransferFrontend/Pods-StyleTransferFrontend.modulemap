@@ -1,0 +1,6 @@
+framework module Pods_StyleTransferFrontend {
+  umbrella header "Pods-StyleTransferFrontend-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2FB11CA0-70CD-4BF8-830A-7D10866F4589"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACC37CB7-5F45-475D-8097-05AD9D19C670"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StyleTransferFrontend/Views/PaintingsMenu.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "showPaintingIsFinishedNotification()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACC37CB7-5F45-475D-8097-05AD9D19C670 - 45f9048c5821898a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StyleTransferFrontend.PaintingsMenu.showPaintingIsFinishedNotification() -&gt; ()"
+                  moduleName = "StyleTransferFrontend"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Documents/Facultate/Licenta/StyleTransferFrontend/StyleTransferFrontend/Views/PaintingsMenu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  uuid = "ACC37CB7-5F45-475D-8097-05AD9D19C670 - 31231340715e7880"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in StyleTransferFrontend.PaintingsMenu.showPaintingIsFinishedNotification() -&gt; ()"
+                  moduleName = "StyleTransferFrontend"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Documents/Facultate/Licenta/StyleTransferFrontend/StyleTransferFrontend/Views/PaintingsMenu.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
